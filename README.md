@@ -12,12 +12,10 @@
     注意 按照浏览器强制规定
     在https+actwebsocket下需要使用tls websocket（wss）
 
-
     插件本身限制使用frp穿透的时候
     服务端判断Host不符会返回404错误
     可以使用Nginx反代重写Host
-    配置文件例子已经提供在nginx文件夹中
-
+    配置文件例子已经提供在nginx/act.conf
 
     如果不想显示宠物信息
     可以使用如下URL
