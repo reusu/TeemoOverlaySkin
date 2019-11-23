@@ -7,7 +7,7 @@
     或者这个（仅支持https）
     https://reusu.github.io/TeemoOverlaySkin/
 
-    可以直接使用overla_pro调用显示
+    可以直接使用overlay_proc调用显示
     例如 http://act.teemo.name/?HOST_PORT=ws://127.0.0.1:10501
     注意 按照浏览器强制规定
     在https+actwebsocket下需要使用tls websocket（wss）
