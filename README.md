@@ -4,7 +4,8 @@
     支持 OverlayPlugin 与 ACTWebsocket
     直接调用模版URL（支持http与https）
     http://act.teemo.name
-
+    或者这个（仅支持https）
+    https://reusu.github.io/TeemoOverlaySkin/
 
     可以直接使用overla_pro调用显示
     例如 http://act.teemo.name/?HOST_PORT=ws://127.0.0.1:10501
@@ -21,7 +22,6 @@
     如果不想显示宠物信息
     可以使用如下URL
     http://act.teemo.name/nopet.html
-
 
 效果预览
 
