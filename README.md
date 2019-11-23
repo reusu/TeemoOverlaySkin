@@ -3,7 +3,7 @@
     一个简单的Overlay Skin
     支持 OverlayPlugin 与 ACTWebsocket
     直接调用模版URL（支持http与https）
-    http://act.teemo.name
+    http://act.teemo.name/
     或者这个（仅支持https）
     https://reusu.github.io/TeemoOverlaySkin/
 
