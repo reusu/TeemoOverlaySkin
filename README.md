@@ -19,5 +19,5 @@
     可以使用如下URL
     http://act.teemo.name/nopet.html
 
-    效果预览
-   ![image](https://github.com/reusu/TeemoOverlaySkin/raw/master/simple.png)
+效果预览
+![image](https://github.com/reusu/TeemoOverlaySkin/raw/master/simple.png)
